@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WORLD CUP 2022</title>
+    <link rel="shortcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodxV1fq61Z_BsgFIde9DFF_40nP67rRXUWA&s" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 style="text-align: center; background-color: aquamarine;"> A blog about Argentina's WC-22 Journey</h1>
+    </header>
+    <header class="Cov"></header>
+    <div style="padding-left: 55px; padding-right: 55px;">
+        <h3 style="font-size: xx-large;">First Match: Argentina vs. Saudi Arabia</h3>
+        <p style="text-align: justify;">The Argentina vs. Saudi Arabia match in the 2022 FIFA World Cup was a stunning upset that captured the world's attention. Held on November 22, 2022, at the Lusail Iconic Stadium in Qatar, the match saw Saudi Arabia triumph over Argentina with a 2-1 victory. Argentina, led by the legendary Lionel Messi, opened the scoring with a penalty in the 10th minute. However, the Saudi team, demonstrating remarkable resilience and tactical acumen, turned the game around with two quick goals in the second half. Saleh Al-Shehri equalized in the 48th minute, and Salem Al-Dawsari scored a spectacular goal just five minutes<b> <span style="color: brown;">This unexpected result shocked football fans globally and was hailed as one of the biggest upsets in World Cup history</span></b>, highlighting the unpredictability and excitement of the tournament.</p>
+        <button><a href="https://youtu.be/spLV1gF0fkI?si=mWgJUj8UHU-k-E8F"target="_blank">Watch Full Highlights</a></button>
+
+
+        <button class="mm"><a id="col"  href="https://youtu.be/spLV1gF0fkI?si=mWgJUj8UHU-k-E8F"target="_blank">Watch Full Match</a></button>
+
+
+        <h3 style="font-size: xx-large;">Group Stage: Argentina vs. Mexico</h3>
+        <p style="text-align: justify;">The Mexico vs. Argentina match in the 2022 FIFA World Cup was a crucial encounter for both teams. Played on November 26, 2022, at the Lusail Iconic Stadium in Qatar, it was a pivotal group stage match. Argentina, under significant pressure following their shocking defeat to Saudi Arabia, needed a win to keep their tournament hopes alive. Mexico, known for their spirited performances, aimed to solidify their position in the group.
+
+            The match was tightly contested, with both teams displaying strong defensive skills in the first half, which ended in a 0-0 stalemate. However, Argentina's perseverance paid off in the second half. <span style="color:  brown; padding: 2px;"><b>Lionel Messi broke the deadlock in the 64th minute with a brilliant long-range strike, showcasing his exceptional talent and leadership.</b></span> Enzo Fernández sealed the victory for Argentina with a stunning goal in the 87th minute. The 2-0 win was crucial for Argentina, revitalizing their World Cup campaign and demonstrating their resilience and determination to progress in the tournament.</p>
+            <button><a href="https://youtu.be/Rb6P2sdlJTE?si=df7RC1TkMivqT4RU" target="_blank">Watch Full Highlights</a></button>
+        <h3 style="font-size: xx-large;">Round of 16: Argentina vs. Australia</h3>
+        <p style="text-align: justify">In the Round of 16 match of the 2022 FIFA World Cup, Argentina faced Australia on December 3, 2022, at the Ahmad bin Ali Stadium in Al Rayyan, Qatar. This knockout stage match was critical for both teams as they vied for a spot in the quarterfinals.</p>
+
+        <p style="text-align: justify;">Argentina, buoyed by their improved performances in the group stage, came out strong. Lionel Messi once again proved to be the difference-maker, scoring the opening goal in the 35th minute with a deft left-footed shot, marking his first-ever goal in a World Cup knockout stage. The second goal came in the 57th minute when Julian Alvarez capitalized on a mistake by the Australian defense, giving Argentina a 2-0 lead.</p>
+        <p><b style="color: brown;">Australia, displaying remarkable tenacity, pulled one back in the 77th minute through an own goal by Argentina's Enzo Fernández, making it 2-1.</b> Despite Australia's late surge and a valiant effort to find an equalizer, Argentina held firm to secure their victory. The match ended 2-1, propelling Argentina into the quarterfinals and furthering Messi's quest for World Cup glory.</p>
+            
+            <button><a href="https://youtu.be/KvSiRNO1BTY?si=x_oilfvrQtShUCSH"target="_blank">Watch Full Highlights</a></button>
+    <h3 style="font-size: xx-large;">Quarterfinal: Argentina vs. Netherlands</h3>
+        <p style="text-align: justify;">In the quarterfinals of the 2022 FIFA World Cup, Argentina faced the Netherlands on December 9, 2022, at the Lusail Iconic Stadium in Qatar. The match was a thrilling encounter that tested both teams' resolve and skill. Argentina took the lead in the first half with a goal from Nahuel Molina, brilliantly assisted by Lionel Messi. Messi then doubled Argentina's lead in the 73rd minute with a calmly taken penalty.<b style="color: brown;"> However, the Netherlands mounted a dramatic comeback, with Wout Weghorst scoring twice, including a last-minute equalizer to send the game into extra time.</b> After a tense, goalless extra time, the match was decided by a penalty shootout. Argentina emerged victorious, winning 4-3 on penalties, with goalkeeper Emiliano Martínez making crucial saves to secure their place in the semifinals.</p>
+        <h3 style="font-size: xx-large;">Semifinal: Argentina vs. Croatia</h3>
+        <p style="text-align: justify;">In the semifinals, Argentina faced Croatia on December 13, 2022, at the Lusail Iconic Stadium. Argentina delivered a commanding performance, defeating Croatia 3-0 to reach the World Cup final. Lionel Messi opened the scoring with a penalty in the 34th minute, becoming Argentina's all-time leading World Cup scorer.<b style="color: brown;"> Julian Alvarez then scored twice, once just before halftime and again in the 69th minute, after a brilliant solo run and a perfect assist from Messi.</b> Argentina's defense held firm against Croatia's attacks, ensuring a clean sheet and a convincing victory. This win secured Argentina's spot in the final, putting them one step closer to their World Cup dream.</p>
+       <button> <a href="https://youtu.be/0i-gsQJg7jc?si=n9RWZGOME_DVrL-7"target="_blank">Watch Full Highlights</a></button>
+        <h3 style="font-size: xx-large;">Final: Argentina vs. France</h3>
+        <p style="text-align: justify;">The final of the 2022 FIFA World Cup was an epic showdown between Argentina and France on December 18, 2022, at the Lusail Iconic Stadium. The match is considered one of the greatest finals in World Cup history. Argentina started strong, with Lionel Messi scoring a penalty in the 23rd minute and Angel Di Maria adding a second goal in the 36th minute. <b style="color: brown;">However, France staged a remarkable comeback with Kylian Mbappé scoring twice in quick succession (80th and 81st minutes) to level the match at 2-2.</b> In extra time, Messi scored again in the 108th minute, but Mbappé completed his hat-trick with another penalty in the 118th minute, bringing the score to 3-3 and forcing a penalty shootout. Argentina triumphed in the shootout, winning 4-2, with goalkeeper Emiliano Martínez making a crucial save and Gonzalo Montiel scoring the decisive penalty. This victory secured Argentina's third World Cup title and cemented Lionel Messi's legacy as one of the greatest footballers of all time.</p>
+       <button> <a href="https://youtu.be/zhEWqfP6V_w?si=mWGkDQIV0yvKExJ4"target="_blank">Watch Full Highlights</a></button>
+    </div><br><br><br>
+    <div style=" padding-left: 55px; padding-right: 55px; padding-bottom: 55px;">
+    <h3 style="font-size: xx-large;">Images :</h3>
+    <img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/v1671401022/primary/g39raiacfqleasoacy3g">
+    <img src="https://static.theprint.in/wp-content/uploads/2022/12/Argentina-FIFA-WorldCup.jpg">
+    <img src="https://media.npr.org/assets/img/2022/12/19/gettyimages-1450300260_custom-ffc0f3a3b6d3a067f6295d8a1f4d5feb2f85d2c2.jpg">
+    <img src="https://static.euronews.com/articles/stories/07/25/72/80/1024x538_cmsv2_5872289d-8acc-5a67-b381-a3836590abb3-7257280.jpg">
+    <img src="https://ss-i.thgim.com/public/incoming/xk9xxl/article66279675.ece/alternates/FREE_1200/argentina.jpeg">
+    </div>
+    <br><br><br>
+</body>
+</html>
